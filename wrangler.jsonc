@@ -6,4 +6,7 @@
   "vars": {
     "VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
   },
+  "observability": {
+    "enabled": true,
+  },
 }
